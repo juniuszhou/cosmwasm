@@ -1,0 +1,42 @@
+{
+  "jsonrpc": "2.0",
+  "id": -1,
+  "result": {
+    "node_info": {
+      "protocol_version": {
+        "p2p": "8",
+        "block": "11",
+        "app": "0"
+      },
+      "id": "adab6076ba902642a5eada3434e38030aac8fc98",
+      "listen_addr": "tcp://0.0.0.0:26656",
+      "network": "sandynet-1",
+      "version": "0.34.14",
+      "channels": "40202122233038606100",
+      "moniker": "sentry-1",
+      "other": {
+        "tx_index": "on",
+        "rpc_address": "tcp://0.0.0.0:26657"
+      }
+    },
+    "sync_info": {
+      "latest_block_hash": "EEFF1E461437A93B2BEC7E3C2A00CBAA16DEA2B985315514FD9E0A583E86A837",
+      "latest_app_hash": "C11B310E9E385CE252B0C819C12754AC8758A3883F8123D5B02FDE964CA9544F",
+      "latest_block_height": "841159",
+      "latest_block_time": "2022-01-14T07:01:46.456082904Z",
+      "earliest_block_hash": "EEF146858C1CBEB58D244DC115E4C47CB50F648FDCCBA6B6916CB8A0B9BA4A07",
+      "earliest_app_hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "earliest_block_height": "1",
+      "earliest_block_time": "2021-11-22T13:00:01Z",
+      "catching_up": false
+    },
+    "validator_info": {
+      "address": "6CE4F35A086861F5D06F4AAF5B0156A266A19FAB",
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "rTu1h79tW2+PJnxDEjD+Dy7AWPxSWR3fZWlgOmi2qY8="
+      },
+      "voting_power": "0"
+    }
+  }
+}
