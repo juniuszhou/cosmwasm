@@ -12,3 +12,5 @@ Cargo.lock
 /local/
 
 **/node_modules/
+
+**/*.wasm

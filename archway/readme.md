@@ -17,10 +17,7 @@ Re-enter keyring passphrase:
   pubkeys: []
 
 
-**Important** write this mnemonic phrase in a safe place.
-It is the only way to recover your account if you ever forget your password.
 
-hybrid exchange student crash grab ability genuine pass peace frog betray certain case invite much jazz yard expand arrest metal actress spread engine neutral
 
 
 ## archway new project 
