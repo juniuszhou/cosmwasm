@@ -11,6 +11,8 @@ Cargo.lock
 
 /local/
 
+/cw-plus/
+
 **/node_modules/
 
 **/*.wasm
