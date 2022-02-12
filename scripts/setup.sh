@@ -21,3 +21,4 @@ wasmd gentx validator "250000000$STAKE" --chain-id="$CHAIN_ID" --amount="2500000
 wasmd collect-gentxs
 
 
+wasmd start --rpc.laddr tcp://0.0.0.0:26657 --trace
