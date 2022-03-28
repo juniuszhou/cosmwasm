@@ -18,7 +18,8 @@ Re-enter keyring passphrase:
 
 
 
-
+## install archway @archwayhq/cli requires Node.js version 17 or higher.
+npm install -g @archwayhq/cli
 
 ## archway new project 
 archway new
